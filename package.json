@@ -1,0 +1,52 @@
+{
+  "name": "@nanaios/dsh-fxtwitter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Read X/Twitter posts, threads, profiles and search results inside DeepSeek Harness via the fxtwitter API — no login, no API key.",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "twitter",
+    "x",
+    "fxtwitter",
+    "social"
+  ],
+  "license": "MIT",
+  "author": "nanaios",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "lib/*.js",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node lib/__selftest.mjs && node lib/__boottest.mjs",
+    "test:unit": "node lib/__boottest.mjs",
+    "test:live": "node lib/__selftest.mjs",
+    "check": "node --check index.js"
+  },
+  "dsh": {
+    "manifestVersion": 1,
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanaios/dsh-fxtwitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanaios/dsh-fxtwitter/issues"
+  },
+  "homepage": "https://github.com/nanaios/dsh-fxtwitter#readme"
+}

@@ -1,0 +1,10 @@
+# Normalize all text files to LF in the repository.
+# Windows checkouts still get CRLF where the editor expects it.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary

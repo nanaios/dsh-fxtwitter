@@ -1,0 +1,4 @@
+- insert:
+    - id: fxtwitter
+      name: '@nanaios/dsh-fxtwitter'
+      config: {}
