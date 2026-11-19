@@ -1,0 +1,501 @@
+{
+  "status": {
+    "type": "status",
+    "url": "https://x.com/NASA/status/2123169377855922254",
+    "id": "2123169377855922254",
+    "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://go.nasa.gov/492jZad",
+    "raw_text": {
+      "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://t.co/uTdG5rW4w2 https://t.co/1KLHknv4r2",
+      "display_text_range": [
+        0,
+        270
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            247,
+            270
+          ],
+          "original": "https://t.co/uTdG5rW4w2",
+          "replacement": "https://go.nasa.gov/492jZad",
+          "display": "go.nasa.gov/492jZad"
+        },
+        {
+          "type": "media",
+          "indices": [
+            271,
+            294
+          ],
+          "id": "2123160759320395776",
+          "display": "pic.x.com/1KLHknv4r2",
+          "original": "https://t.co/1KLHknv4r2",
+          "replacement": "https://x.com/NASA/status/2123169377855922254/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "NASA",
+      "url": "https://x.com/NASA",
+      "id": "11348282",
+      "followers": 92211038,
+      "following": 115,
+      "likes": 17119,
+      "media_count": 28256,
+      "statuses": 74560,
+      "name": "NASA",
+      "description": "Making the seemingly impossible, possible. ✨",
+      "raw_description": {
+        "text": "Making the seemingly impossible, possible. ✨",
+        "facets": []
+      },
+      "location": "Pale Blue Dot",
+      "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+      "joined": "Wed Dec 19 20:20:32 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "http://www.nasa.gov/",
+        "display_url": "nasa.gov"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "government"
+      },
+      "type": "profile"
+    },
+    "replies": 124,
+    "reposts": 585,
+    "likes": 3805,
+    "bookmarks": 239,
+    "quotes": 38,
+    "embed_card": "summary_large_image",
+    "created_at": "Wed Nov 18 21:40:00 +0000 2026",
+    "created_timestamp": 1795038000,
+    "possibly_sensitive": false,
+    "views": 516457,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2123160759320395776",
+          "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+          "width": 3819,
+          "height": 2569,
+          "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2123160759320395776",
+          "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+          "width": 3819,
+          "height": 2569,
+          "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+        }
+      ]
+    },
+    "provider": "twitter",
+    "reposted_by": null
+  },
+  "thread": [
+    {
+      "type": "status",
+      "url": "https://x.com/NASA/status/2123169377855922254",
+      "id": "2123169377855922254",
+      "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://go.nasa.gov/492jZad",
+      "raw_text": {
+        "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://t.co/uTdG5rW4w2 https://t.co/1KLHknv4r2",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              247,
+              270
+            ],
+            "original": "https://t.co/uTdG5rW4w2",
+            "replacement": "https://go.nasa.gov/492jZad",
+            "display": "go.nasa.gov/492jZad"
+          },
+          {
+            "type": "media",
+            "indices": [
+              271,
+              294
+            ],
+            "id": "2123160759320395776",
+            "display": "pic.x.com/1KLHknv4r2",
+            "original": "https://t.co/1KLHknv4r2",
+            "replacement": "https://x.com/NASA/status/2123169377855922254/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASA",
+        "url": "https://x.com/NASA",
+        "id": "11348282",
+        "followers": 92211038,
+        "following": 115,
+        "likes": 17119,
+        "media_count": 28256,
+        "statuses": 74560,
+        "name": "NASA",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "raw_description": {
+          "text": "Making the seemingly impossible, possible. ✨",
+          "facets": []
+        },
+        "location": "Pale Blue Dot",
+        "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "joined": "Wed Dec 19 20:20:32 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://www.nasa.gov/",
+          "display_url": "nasa.gov"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 124,
+      "reposts": 585,
+      "likes": 3805,
+      "bookmarks": 239,
+      "quotes": 38,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 21:40:00 +0000 2026",
+      "created_timestamp": 1795038000,
+      "possibly_sensitive": false,
+      "views": 516457,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123160759320395776",
+            "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+            "width": 3819,
+            "height": 2569,
+            "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123160759320395776",
+            "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+            "width": 3819,
+            "height": 2569,
+            "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    }
+  ],
+  "replies": [
+    {
+      "type": "status",
+      "url": "https://x.com/macmodeirl/status/2123211201157140806",
+      "id": "2123211201157140806",
+      "text": "@NASA Wild to think Andromeda is about 2.5 million light-years away, so this merger actually happened before modern humans even existed.",
+      "raw_text": {
+        "text": "@NASA Wild to think Andromeda is about 2.5 million light-years away, so this merger actually happened before modern humans even existed.",
+        "display_text_range": [
+          6,
+          136
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              0,
+              5
+            ],
+            "original": "NASA",
+            "id": "11348282"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "macmodeirl",
+        "url": "https://x.com/macmodeirl",
+        "id": "1305171008735846400",
+        "followers": 53,
+        "following": 378,
+        "likes": 1119,
+        "media_count": 25,
+        "statuses": 462,
+        "name": "Mac",
+        "description": "Here for the SI & Tech threads | cowboys fan (it hurts) | USAF Vet",
+        "raw_description": {
+          "text": "Here for the SI & Tech threads | cowboys fan (it hurts) | USAF Vet",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1305171008735846400/1793264521",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2106314706411753472/CnhDM8z3_200x200.jpg",
+        "joined": "Sun Sep 13 15:46:42 +0000 2020",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "type": "profile"
+      },
+      "replies": 1,
+      "reposts": 0,
+      "likes": 14,
+      "bookmarks": 0,
+      "quotes": 0,
+      "embed_card": "tweet",
+      "created_at": "Thu Nov 19 00:26:12 +0000 2026",
+      "created_timestamp": 1795047972,
+      "views": 1161,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": {
+        "screen_name": "NASA",
+        "status": "2123169377855922254",
+        "url": "https://x.com/NASA/status/2123169377855922254",
+        "profile_url": "https://x.com/NASA"
+      },
+      "media": {},
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/CuriousIguana/status/2123205535742717989",
+      "id": "2123205535742717989",
+      "text": "@NASA",
+      "raw_text": {
+        "text": "@NASA https://t.co/BA2pXH2Fd2",
+        "display_text_range": [
+          5,
+          5
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              0,
+              5
+            ],
+            "original": "NASA",
+            "id": "11348282"
+          },
+          {
+            "type": "media",
+            "indices": [
+              6,
+              29
+            ],
+            "id": "2123205532647399424",
+            "display": "pic.x.com/BA2pXH2Fd2",
+            "original": "https://t.co/BA2pXH2Fd2",
+            "replacement": "https://x.com/CuriousIguana/status/2123205535742717989/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "CuriousIguana",
+        "url": "https://x.com/CuriousIguana",
+        "id": "2121377255431507968",
+        "followers": 14,
+        "following": 59,
+        "likes": 16,
+        "media_count": 14,
+        "statuses": 53,
+        "name": "Curious Iguana",
+        "description": "History is a set of lies agreed upon. I post the true stories behind them, and the history behind today's news.",
+        "raw_description": {
+          "text": "History is a set of lies agreed upon. I post the true stories behind them, and the history behind today's news.",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2121377255431507968/1794635531",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2121480538586337280/QoYGR9DE_200x200.jpg",
+        "joined": "Fri Nov 13 22:59:16 +0000 2026",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "type": "profile"
+      },
+      "replies": 1,
+      "reposts": 0,
+      "likes": 9,
+      "bookmarks": 0,
+      "quotes": 0,
+      "embed_card": "summary_large_image",
+      "created_at": "Thu Nov 19 00:03:41 +0000 2026",
+      "created_timestamp": 1795046621,
+      "possibly_sensitive": false,
+      "views": 1443,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": null,
+      "replying_to": {
+        "screen_name": "NASA",
+        "status": "2123169377855922254",
+        "url": "https://x.com/NASA/status/2123169377855922254",
+        "profile_url": "https://x.com/NASA"
+      },
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123205532647399424",
+            "url": "https://pbs.twimg.com/media/HXckLsaXoAA4SOV.jpg?name=orig",
+            "width": 900,
+            "height": 645
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123205532647399424",
+            "url": "https://pbs.twimg.com/media/HXckLsaXoAA4SOV.jpg?name=orig",
+            "width": 900,
+            "height": 645
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/sangamkumar22/status/2123169989746454673",
+      "id": "2123169989746454673",
+      "text": "@NASA Great work by NASA, bcz of you guys, I fall in love with space . Thnaku you so much NASA and team.",
+      "raw_text": {
+        "text": "@NASA Great work by NASA, bcz of you guys, I fall in love with space . Thnaku you so much NASA and team.",
+        "display_text_range": [
+          6,
+          104
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              0,
+              5
+            ],
+            "original": "NASA",
+            "id": "11348282"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "sangamkumar22",
+        "url": "https://x.com/sangamkumar22",
+        "id": "1406093517097627649",
+        "followers": 3686,
+        "following": 1712,
+        "likes": 29252,
+        "media_count": 1025,
+        "statuses": 4937,
+        "name": "Politics With Sangam",
+        "description": "I debunk propaganda \nPolitics • Satire • Current Affairs",
+        "raw_description": {
+          "text": "I debunk propaganda \nPolitics • Satire • Current Affairs",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1406093517097627649/1786714596",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2088243449556541441/lPMbKvii_200x200.jpg",
+        "joined": "Sat Jun 19 03:36:47 +0000 2021",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "type": "profile"
+      },
+      "replies": 0,
+      "reposts": 0,
+      "likes": 8,
+      "bookmarks": 0,
+      "quotes": 0,
+      "embed_card": "tweet",
+      "created_at": "Wed Nov 18 21:42:26 +0000 2026",
+      "created_timestamp": 1795038146,
+      "views": 1299,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": {
+        "screen_name": "NASA",
+        "status": "2123169377855922254",
+        "url": "https://x.com/NASA/status/2123169377855922254",
+        "profile_url": "https://x.com/NASA"
+      },
+      "media": {},
+      "provider": "twitter",
+      "reposted_by": null
+    }
+  ],
+  "author": {
+    "screen_name": "NASA",
+    "url": "https://x.com/NASA",
+    "id": "11348282",
+    "followers": 92211038,
+    "following": 115,
+    "likes": 17119,
+    "media_count": 28256,
+    "statuses": 74560,
+    "name": "NASA",
+    "description": "Making the seemingly impossible, possible. ✨",
+    "raw_description": {
+      "text": "Making the seemingly impossible, possible. ✨",
+      "facets": []
+    },
+    "location": "Pale Blue Dot",
+    "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+    "joined": "Wed Dec 19 20:20:32 +0000 2007",
+    "protected": false,
+    "website": {
+      "url": "http://www.nasa.gov/",
+      "display_url": "nasa.gov"
+    },
+    "verification": {
+      "verified": true,
+      "verified_at": null,
+      "type": "government"
+    },
+    "type": "profile"
+  },
+  "cursor": {
+    "bottom": "DAAKCgABHXe4wGQ__p8LAAIAAAEIRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJZZGR3WE1ORmZRVVIxM0pDOS9GbkFsSFhjTU9GRGFzS3NkZHdSbHFGdUJFUjEzTERDcEZqQTdIWGNPRDU5V2dONGRkeWxXbEJvUlJoMTNEWFNwVnhDbEhYY01rWm9Yc1BVZGR3V2dFOWZRclIxM0o1YytWOEUxSFhjWE82cmIwZUVkZHdQYlRKdHdrUjEzQzBIODE3QUNIWGNSdDRzWDBKd2RkekNSd1ZvaE14MTNCaFJrMmxBRUhYYzJ6aWNYTU13ZGR3Tk0xUmJnVGgxM0QxZGJXNUJCSFhkSC9kcWJVQk1kZHdROFhSY3d1Zz09CAADAAAAAgsABAAAAAZCb3R0b20AAA"
+  },
+  "code": 200
+}

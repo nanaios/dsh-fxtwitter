@@ -1,6 +1,6 @@
 {
   "name": "@nanaios/dsh-fxtwitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "Read X/Twitter posts, threads, profiles and search results inside DeepSeek Harness via the fxtwitter API — no login, no API key.",
@@ -22,6 +22,7 @@
   "files": [
     "index.js",
     "lib/*.js",
+    "lib/fixtures/*.json",
     "cordis.patch.yml",
     "README.md",
     "LICENSE"
@@ -30,9 +31,12 @@
     "node": ">=22"
   },
   "scripts": {
-    "test": "node lib/__selftest.mjs && node lib/__boottest.mjs",
-    "test:unit": "node lib/__boottest.mjs",
+    "test": "node lib/__offline_test.mjs && node lib/__boottest.mjs",
+    "test:offline": "node lib/__offline_test.mjs",
+    "test:boot": "node lib/__boottest.mjs",
     "test:live": "node lib/__selftest.mjs",
+    "test:cache": "node lib/__cache_test.mjs",
+    "fixtures": "node lib/__capture_fixtures.mjs",
     "check": "node --check index.js"
   },
   "dsh": {

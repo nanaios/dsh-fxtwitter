@@ -48,35 +48,54 @@ fxtwitter  action=search  target=artemis lang:ja since:2026-11-01
 
 ## Quirks worth knowing
 
-- **The v2 search endpoint returns HTTP 404 while rate limited**, not 429. A retry
-  a few seconds later succeeds. `lib/api.js` retries automatically.
-- **fxtwitter answers HTTP 200 with an HTML error page** for a nonexistent post
-  on some paths. The plugin validates the decoded body, not just the status.
-- Field names differ between API generations — v2 says `reposts` and `statuses`
-  where v1 says `retweets` and `tweets`. `lib/api.js` accepts both.
+These were found by measurement, not by reading docs, and they shape the code:
+
+- **The v2 search endpoint rate-limits by returning HTTP 404 with an empty
+  `results` envelope**, not 429. It punishes *repeat* calls rather than volume:
+  two consecutive searches succeed, the next two 404. Probing during the window
+  appears to keep it closed — a 2s poll loop took ~55s to clear where going
+  quiet cleared it in ~20s. So the client **caches successful responses** and
+  **fails fast with a retry hint** instead of silently retrying.
+- **fxtwitter answers HTTP 200 with an HTML error page** for nonexistent posts on
+  some paths. The client validates the decoded body, not just the status.
+- **Field names differ between API generations** — v2 says `reposts` and
+  `statuses` where v1 says `retweets` and `tweets`, and `verification` is a
+  nested object. Missing this renders a confident `retweets 0`. Both spellings
+  are accepted; the offline tests pin it down.
 
 ## Layout
 
 ```
-index.js            plugin entry — mounts the tool
-lib/tool.js         tool definition (schema, execute, presentCall)
-lib/ops.js          post / thread / user / search operations
-lib/api.js          HTTP client, error type, payload normalisation
-lib/render.js       model-facing text rendering
-lib/__selftest.mjs  smoke test for the operation + render layers
-lib/__boottest.mjs  boot test: apply() against a mock DSH context
+index.js              plugin entry — mounts the tool
+lib/tool.js           tool definition (schema, execute, presentCall)
+lib/ops.js            post / thread / user / search operations
+lib/api.js            HTTP client, cache, error type, payload normalisation
+lib/render.js         model-facing text rendering
+lib/fixtures/*.json   captured upstream responses used by the offline tests
+lib/__offline_test.mjs  parsing + rendering, no network
+lib/__boottest.mjs      apply() against a mock DSH context
+lib/__selftest.mjs      live API smoke test
+lib/__cache_test.mjs    proves repeats are served from cache
+lib/__capture_fixtures.mjs  refresh lib/fixtures from the live API
 ```
 
 ## Test
 
 ```sh
-node lib/__selftest.mjs   # live API calls, parsing, rendering
-node lib/__boottest.mjs   # plugin loads: exports, inject, schema, execute, error path
+npm test            # offline + boot — deterministic, no network
+npm run test:live   # hits the real API; search skips if rate limited
+npm run test:cache  # confirms repeat reads do not re-request
 ```
 
-Both run real requests against the live API and assert on parsed values,
-including the retweet/view/post-count fields whose names differ between API
-versions.
+The default suite is **offline**: it runs against captured fixtures so it cannot
+flake on fxtwitter's rate limiting. `test:live` is the one that can report
+`SKIP` — a rate-limited search says nothing about the code under test.
+
+Regenerate fixtures when the upstream payload shape changes:
+
+```sh
+npm run fixtures
+```
 
 ## Install
 

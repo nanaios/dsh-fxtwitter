@@ -1,0 +1,566 @@
+{
+  "code": 200,
+  "results": [
+    {
+      "type": "status",
+      "url": "https://x.com/NASA/status/2123169377855922254",
+      "id": "2123169377855922254",
+      "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://go.nasa.gov/492jZad",
+      "raw_text": {
+        "text": "A successful stellar merger 🤝\n\nScientists recently spotted a star slightly less massive than the Sun merging into a puffy supergiant star in the outskirts of the Andromeda galaxy. This hard-to-observe event resulted in a new star nicknamed \"Bao.\" https://t.co/uTdG5rW4w2 https://t.co/1KLHknv4r2",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              247,
+              270
+            ],
+            "original": "https://t.co/uTdG5rW4w2",
+            "replacement": "https://go.nasa.gov/492jZad",
+            "display": "go.nasa.gov/492jZad"
+          },
+          {
+            "type": "media",
+            "indices": [
+              271,
+              294
+            ],
+            "id": "2123160759320395776",
+            "display": "pic.x.com/1KLHknv4r2",
+            "original": "https://t.co/1KLHknv4r2",
+            "replacement": "https://x.com/NASA/status/2123169377855922254/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASA",
+        "url": "https://x.com/NASA",
+        "id": "11348282",
+        "followers": 92211039,
+        "following": 115,
+        "likes": 17119,
+        "media_count": 28256,
+        "statuses": 74560,
+        "name": "NASA",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "raw_description": {
+          "text": "Making the seemingly impossible, possible. ✨",
+          "facets": []
+        },
+        "location": "Pale Blue Dot",
+        "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "joined": "Wed Dec 19 20:20:32 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://www.nasa.gov/",
+          "display_url": "nasa.gov"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 124,
+      "reposts": 585,
+      "likes": 3806,
+      "bookmarks": 239,
+      "quotes": 38,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 21:40:00 +0000 2026",
+      "created_timestamp": 1795038000,
+      "possibly_sensitive": false,
+      "views": 516457,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123160759320395776",
+            "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+            "width": 3819,
+            "height": 2569,
+            "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123160759320395776",
+            "url": "https://pbs.twimg.com/media/HXb7dixXQAAIk5w.jpg?name=orig",
+            "width": 3819,
+            "height": 2569,
+            "altText": "On the left, a view of about half of the Andromeda Galaxy. It is annotated with a small white square to show the location of the merging stars. On the right, a series of four images from NEOWISE, SphereX, and Webb telescopes shows before, during, and after the merger."
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/NASA/status/2123156140288610715",
+      "id": "2123156140288610715",
+      "text": "Join us for a @Reddit AMA from the International Space Station!\n\n@astro_anil (in orbit) and @zenanaut (on Earth) are taking your questions about how to become an astronaut and what it's like to live in space. Stop by on Nov. 19: https://www.reddit.com/r/space/",
+      "raw_text": {
+        "text": "Join us for a @Reddit AMA from the International Space Station!\n\n@astro_anil (in orbit) and @zenanaut (on Earth) are taking your questions about how to become an astronaut and what it's like to live in space. Stop by on Nov. 19: https://t.co/yzlYmjbQki https://t.co/s0ofdRz4XE",
+        "display_text_range": [
+          0,
+          252
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              14,
+              21
+            ],
+            "original": "Reddit",
+            "id": "811377"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              65,
+              76
+            ],
+            "original": "astro_anil",
+            "id": "1456357980216066048"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              92,
+              101
+            ],
+            "original": "zenanaut",
+            "id": "14560359"
+          },
+          {
+            "type": "url",
+            "indices": [
+              229,
+              252
+            ],
+            "original": "https://t.co/yzlYmjbQki",
+            "replacement": "https://www.reddit.com/r/space/",
+            "display": "reddit.com/r/space/"
+          },
+          {
+            "type": "media",
+            "indices": [
+              253,
+              276
+            ],
+            "id": "2123156135398010880",
+            "display": "pic.x.com/s0ofdRz4XE",
+            "original": "https://t.co/s0ofdRz4XE",
+            "replacement": "https://x.com/NASA/status/2123156140288610715/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASA",
+        "url": "https://x.com/NASA",
+        "id": "11348282",
+        "followers": 92211039,
+        "following": 115,
+        "likes": 17119,
+        "media_count": 28256,
+        "statuses": 74560,
+        "name": "NASA",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "raw_description": {
+          "text": "Making the seemingly impossible, possible. ✨",
+          "facets": []
+        },
+        "location": "Pale Blue Dot",
+        "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "joined": "Wed Dec 19 20:20:32 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://www.nasa.gov/",
+          "display_url": "nasa.gov"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 51,
+      "reposts": 79,
+      "likes": 814,
+      "bookmarks": 43,
+      "quotes": 8,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 20:47:24 +0000 2026",
+      "created_timestamp": 1795034844,
+      "possibly_sensitive": false,
+      "views": 352783,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123156135398010880",
+            "url": "https://pbs.twimg.com/media/HXb3QZUW8AAmr-Z.jpg?name=orig",
+            "width": 3024,
+            "height": 2951,
+            "altText": "Astronaut Anil Menon, wearing a dark shirt on the International Space Station, holds up a tablet with \"Hello, Reddit! I'll join an AMA live from space. Nov. 19, r/space\" written on it. Behind him, a circular window looks out into space."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123156135398010880",
+            "url": "https://pbs.twimg.com/media/HXb3QZUW8AAmr-Z.jpg?name=orig",
+            "width": 3024,
+            "height": 2951,
+            "altText": "Astronaut Anil Menon, wearing a dark shirt on the International Space Station, holds up a tablet with \"Hello, Reddit! I'll join an AMA live from space. Nov. 19, r/space\" written on it. Behind him, a circular window looks out into space."
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/NASA/status/2123110241130729542",
+      "id": "2123110241130729542",
+      "text": "After nearly 50 years, Voyager 1 has traveled more than one light-day from Earth.\n\nHear about what the Voyager mission has taught us about our solar system—and beyond—in the newest episode of our Curious Universe podcast: https://go.nasa.gov/4t6oJF3",
+      "raw_text": {
+        "text": "After nearly 50 years, Voyager 1 has traveled more than one light-day from Earth.\n\nHear about what the Voyager mission has taught us about our solar system—and beyond—in the newest episode of our Curious Universe podcast: https://t.co/myZespHoPz https://t.co/bRi1iaSWCs",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              222,
+              245
+            ],
+            "original": "https://t.co/myZespHoPz",
+            "replacement": "https://go.nasa.gov/4t6oJF3",
+            "display": "go.nasa.gov/4t6oJF3"
+          },
+          {
+            "type": "media",
+            "indices": [
+              246,
+              269
+            ],
+            "id": "2123110237276135424",
+            "display": "pic.x.com/bRi1iaSWCs",
+            "original": "https://t.co/bRi1iaSWCs",
+            "replacement": "https://x.com/NASA/status/2123110241130729542/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASA",
+        "url": "https://x.com/NASA",
+        "id": "11348282",
+        "followers": 92211039,
+        "following": 115,
+        "likes": 17119,
+        "media_count": 28256,
+        "statuses": 74560,
+        "name": "NASA",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "raw_description": {
+          "text": "Making the seemingly impossible, possible. ✨",
+          "facets": []
+        },
+        "location": "Pale Blue Dot",
+        "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "joined": "Wed Dec 19 20:20:32 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://www.nasa.gov/",
+          "display_url": "nasa.gov"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 176,
+      "reposts": 1399,
+      "likes": 7912,
+      "bookmarks": 540,
+      "quotes": 117,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 17:45:01 +0000 2026",
+      "created_timestamp": 1795023901,
+      "possibly_sensitive": false,
+      "views": 568909,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123110237276135424",
+            "url": "https://pbs.twimg.com/media/HXbNgxfW4AAVZCh.jpg?name=orig",
+            "width": 1723,
+            "height": 1920,
+            "altText": "A photo showing Saturn's B and C rings captured during the Voyager mission. The C-ring is most prominent, appearing as ribbed arcs of blue and white. The B-ring lines the top and left edges of the scene, appearing as a hazy band of gold."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123110237276135424",
+            "url": "https://pbs.twimg.com/media/HXbNgxfW4AAVZCh.jpg?name=orig",
+            "width": 1723,
+            "height": 1920,
+            "altText": "A photo showing Saturn's B and C rings captured during the Voyager mission. The C-ring is most prominent, appearing as ribbed arcs of blue and white. The B-ring lines the top and left edges of the scene, appearing as a hazy band of gold."
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/NASAEarth/status/2123087960891441442",
+      "id": "2123087960891441442",
+      "text": "Just 34 minutes before its cameras were turned off in 1990, Voyager 1 captured this iconic view of Earth – a pale blue dot in the vastness of space.\n\nToday, Voyager 1 is one light-day away from Earth. A little piece of our planet journeying through interstellar space. 🌎💙",
+      "raw_text": {
+        "text": "Just 34 minutes before its cameras were turned off in 1990, Voyager 1 captured this iconic view of Earth – a pale blue dot in the vastness of space.\n\nToday, Voyager 1 is one light-day away from Earth. A little piece of our planet journeying through interstellar space. 🌎💙 https://t.co/HOlmoKK4P6",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              272,
+              295
+            ],
+            "id": "2123087953769402369",
+            "display": "pic.x.com/HOlmoKK4P6",
+            "original": "https://t.co/HOlmoKK4P6",
+            "replacement": "https://x.com/NASAEarth/status/2123087960891441442/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASAEarth",
+        "url": "https://x.com/NASAEarth",
+        "id": "24919888",
+        "followers": 3721693,
+        "following": 86,
+        "likes": 3016,
+        "media_count": 12249,
+        "statuses": 25043,
+        "name": "NASA Earth",
+        "description": "NASA’s favorite (habitable) planet. 🌎💚 Studying Earth from ground to orbit.",
+        "raw_description": {
+          "text": "NASA’s favorite (habitable) planet. 🌎💚 Studying Earth from ground to orbit.",
+          "facets": []
+        },
+        "location": "Earth",
+        "banner_url": "https://pbs.twimg.com/profile_banners/24919888/1766419572",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2040064373323083776/2ez7ntt1_200x200.jpg",
+        "joined": "Tue Mar 17 17:45:41 +0000 2009",
+        "protected": false,
+        "website": {
+          "url": "https://science.nasa.gov/earth/",
+          "display_url": "science.nasa.gov/earth/"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 244,
+      "reposts": 7160,
+      "likes": 37589,
+      "bookmarks": 2875,
+      "quotes": 508,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 16:16:29 +0000 2026",
+      "created_timestamp": 1795018589,
+      "possibly_sensitive": false,
+      "views": 908378,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123087953769402369",
+            "url": "https://pbs.twimg.com/media/HXa5Ps9WEAEA3Y7.jpg?name=orig",
+            "width": 5230,
+            "height": 5175,
+            "altText": "Earth is seen in the vastness of space as a single, bright blue dot in the middle of a fuzzy, white sun ray. Other rays of light are scattered across the image. Credit: NASA"
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123087953769402369",
+            "url": "https://pbs.twimg.com/media/HXa5Ps9WEAEA3Y7.jpg?name=orig",
+            "width": 5230,
+            "height": 5175,
+            "altText": "Earth is seen in the vastness of space as a single, bright blue dot in the middle of a fuzzy, white sun ray. Other rays of light are scattered across the image. Credit: NASA"
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": {
+        "id": "11348282",
+        "name": "NASA",
+        "screen_name": "NASA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "url": "https://x.com/NASA"
+      }
+    },
+    {
+      "type": "status",
+      "url": "https://x.com/NASA/status/2123092972296163443",
+      "id": "2123092972296163443",
+      "text": "A record-breaking turnout 🏆\n \n181,835 of you participated in our annual @SpaceApps Challenge hackathon. Each year, we invite people around the world to use our open data to address a challenge focused on space exploration or Earth science. https://go.nasa.gov/3WSuABQ",
+      "raw_text": {
+        "text": "A record-breaking turnout 🏆\n \n181,835 of you participated in our annual @SpaceApps Challenge hackathon. Each year, we invite people around the world to use our open data to address a challenge focused on space exploration or Earth science. https://t.co/7iD8dBxT9z https://t.co/WSpC09Nn7Q",
+        "display_text_range": [
+          0,
+          263
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              72,
+              82
+            ],
+            "original": "SpaceApps",
+            "id": "375432180"
+          },
+          {
+            "type": "url",
+            "indices": [
+              240,
+              263
+            ],
+            "original": "https://t.co/7iD8dBxT9z",
+            "replacement": "https://go.nasa.gov/3WSuABQ",
+            "display": "go.nasa.gov/3WSuABQ"
+          },
+          {
+            "type": "media",
+            "indices": [
+              264,
+              287
+            ],
+            "id": "2123092969972490240",
+            "display": "pic.x.com/WSpC09Nn7Q",
+            "original": "https://t.co/WSpC09Nn7Q",
+            "replacement": "https://x.com/NASA/status/2123092972296163443/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "NASA",
+        "url": "https://x.com/NASA",
+        "id": "11348282",
+        "followers": 92211039,
+        "following": 115,
+        "likes": 17119,
+        "media_count": 28256,
+        "statuses": 74560,
+        "name": "NASA",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "raw_description": {
+          "text": "Making the seemingly impossible, possible. ✨",
+          "facets": []
+        },
+        "location": "Pale Blue Dot",
+        "banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "joined": "Wed Dec 19 20:20:32 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://www.nasa.gov/",
+          "display_url": "nasa.gov"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "government"
+        },
+        "type": "profile"
+      },
+      "replies": 64,
+      "reposts": 82,
+      "likes": 602,
+      "bookmarks": 33,
+      "quotes": 13,
+      "embed_card": "summary_large_image",
+      "created_at": "Wed Nov 18 16:36:24 +0000 2026",
+      "created_timestamp": 1795019784,
+      "possibly_sensitive": false,
+      "views": 274613,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123092969972490240",
+            "url": "https://pbs.twimg.com/media/HXa9zrxW4AAL_Er.jpg?name=orig",
+            "width": 768,
+            "height": 512,
+            "altText": "Two people, one wearing a dark shirt and the other wearing a light shirt and glasses, look thoughtfully at a laptop as they work together."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123092969972490240",
+            "url": "https://pbs.twimg.com/media/HXa9zrxW4AAL_Er.jpg?name=orig",
+            "width": 768,
+            "height": 512,
+            "altText": "Two people, one wearing a dark shirt and the other wearing a light shirt and glasses, look thoughtfully at a laptop as they work together."
+          }
+        ]
+      },
+      "provider": "twitter",
+      "reposted_by": null
+    }
+  ],
+  "cursor": {
+    "top": "DAAHCgABHXe4193AJxELAAIAAAATMjEyMzE2OTM3Nzg1NTkyMjI1NAgAAwAAAAEAAA",
+    "bottom": "DAAHCgABHXe4192__-sLAAIAAAATMjEyMDk3NDExMDMzNTMxMjI5NwgAAwAAAAIAAA"
+  }
+}
